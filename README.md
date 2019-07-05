@@ -1,3 +1,6 @@
+Learning material-ui and front end animation from react-slick and react-reveal
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
