@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
+import MyButton from "../utils/MyButton";
 
 export default class Discount extends Component {
   state = {
@@ -40,6 +41,13 @@ export default class Discount extends Component {
                 closet for Chuck Norris. The chief export of Chuck Norris is
                 Pain.
               </p>
+
+              <MyButton
+                text="Get those tickets!"
+                bck="#ffa800"
+                color="#ffffff"
+                link="http://google.com"
+              />
 
               <div />
             </div>
