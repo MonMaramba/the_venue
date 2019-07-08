@@ -288,8 +288,8 @@ footer .footer_copyright {
 }
 .pricing_wrapper .pricing_item {
   flex-grow: 1;
-  width: 33%;
-  padding: 20px;
+  width: 33.3%;
+  padding: 19px;
   box-sizing: border-box;
 }
 

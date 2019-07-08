@@ -5,6 +5,7 @@ import VenueInfo from "./components/venueInfo";
 import Header from "./components/header_footer/Header";
 import Featured from "./components/featured";
 import Highlight from "./components/Highlights";
+import Pricing from "./components/pricing";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Featured />
       <VenueInfo />
       <Highlight />
+      <Pricing />
     </div>
   );
 }
