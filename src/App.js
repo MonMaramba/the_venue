@@ -6,6 +6,8 @@ import Header from "./components/header_footer/Header";
 import Featured from "./components/featured";
 import Highlight from "./components/Highlights";
 import Pricing from "./components/pricing";
+import Location from "./components/location";
+import Footer from "./components/header_footer/Footer";
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <VenueInfo />
       <Highlight />
       <Pricing />
+      <Location />
+      <Footer />
     </div>
   );
 }
