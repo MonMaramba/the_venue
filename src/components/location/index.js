@@ -4,6 +4,7 @@ const Location = () => {
   return (
     <div className="location_wrapper">
       <iframe
+        title="myFrame"
         src="https://www.google.com/maps/embed?pb="
         width="100%"
         height="500px"
